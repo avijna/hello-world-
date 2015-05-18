@@ -4,6 +4,7 @@
 
 #define MAX 10
 #define MAXNUM 11
+#define RASCAL
 
 
 class Cqueue {
